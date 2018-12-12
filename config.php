@@ -1,0 +1,19 @@
+<?php
+//ikuti format config di bawah "ticket=tiket_kamu&meid=meid_kamu",
+//jangan ada sepasi
+$config = [
+
+"ticket=sHp2r312otmCpnGns3mCqJhovNiBh5neutCSorPLe8uwipxsfXany4_MnJy0Y3lnkLCozX-dh9uumJFqs9uc3K2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=942489e09c50b6b7",
+
+"ticket=sHp2r312otmCpnGns3mCqJhovNiBio-YrrqcoMCogpKyinuliZy23ILciWO0q5Nmhn2zmIqHhNGv4I2vtLWckq2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=942489e09c6c715b",
+
+"ticket=sHp2r312otmCpnGns3mCqJhovNiBh4fer9CgpL_LepWxoJyxip-mlYKpeWTAhZOqhX2zloqth5evuo1ps8udzq2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=942489e09da615c8",
+
+"ticket=sHp2r312otmCpnGns3mCqJhovNiBh4DRurqjbbSoh8uxeoJsf3azz4PPeWS_hXKckIqr24uHe5auvY2xtbV3yq2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=942489e09dc157ed",
+
+"ticket=sHp2r312otmCpnGns3mCqJhovNiBh3-YrqqgobWlg8ywioOifZyvy4OUiWO1dZybhHqozIqdeM27vYmwwKV7zK2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=942489e09dddef8e",
+
+
+];
+
+?>
